@@ -1,0 +1,14 @@
+.landingPage {
+  width: 100vw;
+  height: 100vh;
+  background-color: #8a2be2;
+}
+
+input {
+  width: 10rem;
+  height: 2rem;
+  background: #fff;
+  color: #8a2be2;
+  border-radius: 1rem;
+  border: none;
+}
